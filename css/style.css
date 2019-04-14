@@ -1,0 +1,26 @@
+.bg-black{
+  background-color: black;
+}
+.font-div{
+  width:25%;
+}
+img{
+  width:100%;
+  height:100%;
+}
+@media only screen and (min-width:992px){
+  .font-div{
+    padding:50% 0px;
+  }
+}
+.font-size{
+  font-size:20px;
+}
+.project a{
+	color: #dc3545;
+}
+.project a:hover {
+	/* color: #dc3545; */
+	text-decoration: none;
+	cursor: pointer;
+}
